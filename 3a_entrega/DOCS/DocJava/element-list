@@ -1,0 +1,16 @@
+capaDominio.algoritmo
+capaDominio.candidatos
+capaDominio.casilla
+capaDominio.controladoresDominio
+capaDominio.controladoresDominio.controladores
+capaDominio.kakuro
+capaDominio.modo
+capaDominio.nivelAyuda
+capaDominio.pair
+capaDominio.partida
+capaDominio.read
+capaDominio.secuencia
+capaDominio.usuario
+capaPersistencia
+capaPersistencia.gestor
+capaPresentacion
