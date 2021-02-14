@@ -1,0 +1,5 @@
+Este directorio contiene el diagrama de clases 
+Dentro se pueden encontrar los ficheros:
+Diagrama de Clases de Diseño: contiene un diagrama de todas las clases de diseño de la capa de dominio
+Descripcion de las clases: contiene la explicacion de las clases de diseño de la capa de dominio
+

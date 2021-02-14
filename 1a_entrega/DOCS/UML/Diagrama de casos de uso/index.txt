@@ -1,0 +1,5 @@
+Este directorio contiene toda la informacion acerca de los casos de uso
+Dentro se pueden encontrar los ficheros:
+Casos de uso: diagrama de los casos de uso
+Especificación de casos de uso: explicación en detalle de cada caso de uso
+

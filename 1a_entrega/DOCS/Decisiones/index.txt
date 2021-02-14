@@ -1,0 +1,5 @@
+Este directorio contiene todas las decisiones del grupo
+Dentro se pueden encontrar los ficheros:
+Decisiones: Indica que elecciones haremos, tanto actuales como las futuras dependiendo de los tiempos de entrega
+Propuestas: Indica que ideas mantendremos y cuales se han estado eliminando del proceso de programacion
+

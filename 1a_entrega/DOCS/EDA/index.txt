@@ -1,0 +1,1 @@
+El fichero EDA contiene la descripcion de los algoritmos propuestos y elegidos tanto del algoritmo de creacion como el de resolucion
