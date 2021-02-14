@@ -1,0 +1,2 @@
+Pel que fa a les millores, en aquesta entrega ens hem concentrat sobretot en l’argoritme de creació que mancava, i en acabar les 3 capes. 
+Per tant, tota la informació es troba en l’apartat d’EDA.

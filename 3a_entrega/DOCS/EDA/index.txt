@@ -1,0 +1,5 @@
+En esta carpeta se encuentra la explicación de los algoritmos desarrollados para este proyecto. 
+En ellos se encuentran extractos de los algoritmos investigados en la primera entrega, 
+así como la explicación de los algoritmos de la entrega final. 
+Se encuentra también en una carpeta adicional, 
+el pdf correspondiente al documento EDA de la primera entrega, por si se quisiera comparar mejor.
